@@ -3,7 +3,7 @@ name: ant-design-skill
 description: 基于 Ant Design 生成企业级中后台界面与业务组件。适用于管理后台、企业管理系统（ERP/CRM）、运维控制台、数据看板等产品场景；覆盖导航布局（SideLayout/TopLayout/MixedLayout）、查询筛选（QueryFilter）、表单（基础表单、分步表单、嵌入表单、筛选表单、登录表单）、表格（AntD Table / ProTable）、列表（AntD List / ProList）、详情展示与描述列表（Descriptions / ProDescriptions）、图表（Ant Design Charts）、指标卡、Design Token 与 ConfigProvider。用户提到 antd、Ant Design、ProComponents、ProTable、ProForm、中后台页面、管理后台、管理系统、数据看板、表格页、列表页、表单页、详情页、筛选查询、批量操作、操作列、详情展示、图表看板、指标卡、页面说明提示条、侧边栏收起、Design Token、ConfigProvider 或主题 token 时使用本 Skill；即使用户未明确说 Ant Design，也应在上述中后台场景使用。
 ---
 
-# Ant Design 企业级中后台设计 Skill
+#BOSS Design 企业级中后台设计 Skill
 
 ## 概述
 
