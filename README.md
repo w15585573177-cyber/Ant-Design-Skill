@@ -1,4 +1,4 @@
-# Ant Design vue Skill  🫶  Community
+# BOSS Design VUE Skill  🫶  Community
 
 *面向 AI 时代的设计系统表达与实践，构建人机协同设计新生态。*
 
@@ -20,22 +20,8 @@ Ant Design Skill 是 Ant Design 官方设计团队出品的，面向 AI 的设�
 
 ### ❖ 我们提供
 
-- **Ant Design Skill 技能包** — 开箱即用的 AI 技能，直接生成符合 Ant Design 设计规范的界面
+- **BOSS Design Skill 技能包** — 开箱即用的 AI 技能，直接生成符合 Ant Design 设计规范的界面
 - **Design Skill 构建指南** — 一套完整的方法论与工具链，帮助你构建属于自己的 Design Skill
-
-
-
-### ❤︎ 社区交流
-
-欢迎更多设计师一起成为 Builder！
-
-前往 [GitHub Discussions](https://github.com/AntGroupDesign/Ant-Design-Skill/discussions) 交流想法、提问和分享实践：
-
-- 一起交流 Design Skill 创造方法体系
-- 一起构建 AI 时代的设计系统表达方式
-- 一起探索 Design + AI 的新协作模式
-
-欢迎加入设计开源交流群：**128970065**（钉钉群号）
 
 
 
