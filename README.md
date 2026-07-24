@@ -1,4 +1,4 @@
-# Ant Design Skill  🫶  Community
+# Ant Design vue Skill  🫶  Community
 
 *面向 AI 时代的设计系统表达与实践，构建人机协同设计新生态。*
 
